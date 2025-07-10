@@ -1,6 +1,3 @@
-requirements.txt
-streamlit 
-
 import streamlit as st
 
 # セッション初期化
